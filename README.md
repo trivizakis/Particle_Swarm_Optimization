@@ -6,9 +6,6 @@ also avoid using x as an unknown variable ;)
 
 This was a project for Computational Intelligence Msc course.
 
-<hr>
-use hypes file with:
-https://github.com/trivizakis/easyConvNet
 
 <hr>
 
